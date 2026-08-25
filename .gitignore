@@ -1,0 +1,26 @@
+# Secret environment variables
+.env
+
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Uploaded documents
+data/*
+!data/.gitkeep
+
+# Model and cache files
+.cache/
+huggingface/
+
+# IDE files
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

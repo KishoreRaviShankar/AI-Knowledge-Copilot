@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+pypdf
+python-docx
+faiss-cpu
+sentence-transformers
+rank-bm25
+numpy
+google-genai
+python-dotenv
