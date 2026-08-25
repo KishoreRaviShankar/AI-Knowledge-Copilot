@@ -65,7 +65,7 @@ Gemini returns an answer grounded in the retrieved content.
 
 System Architecture
 
-
+=======
 ## Project Overview
 
 Organizations store important knowledge across policies, manuals, reports, procedures, and guidelines. Finding the correct information manually can be slow and difficult. This project converts uploaded documents into a searchable knowledge base so users can ask questions, summarize content, compare documents, and receive decision support based only on the uploaded material.
@@ -103,7 +103,7 @@ Organizations store important knowledge across policies, manuals, reports, proce
 
 ## System Architecture
 
-
+```mermaid
 >>>>>>> 47aab9a (Expand project documentation)
 flowchart TD
     A[Upload PDF, DOCX or TXT] --> B[Extract and clean text]
@@ -165,7 +165,7 @@ Uvicorn
 Project Structure
 
 =======
-
+```
 
 ## Technology Stack
 
